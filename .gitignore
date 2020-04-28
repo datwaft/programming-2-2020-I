@@ -36,3 +36,4 @@ log template.docx
 Debug/
 .vs/
 *.docx
+*.7z
