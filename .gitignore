@@ -35,3 +35,4 @@ log template.docx
 # VS
 Debug/
 .vs/
+*.docx

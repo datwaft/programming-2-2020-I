@@ -71,5 +71,7 @@ int main() {
     delete list;
   } catch (std::exception ex) {
     std::cerr << "Unhandled exception: \"" << ex.what() << "\"" << std::endl;
+  } catch (...) {
+    std::cerr << "Unhandled unkown exception" << std::endl;
   }
 }
