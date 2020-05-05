@@ -1,0 +1,4 @@
+P:123:Pepito Figuerez:30
+P:456:Maria Figuerez:30
+P:789:Pepon Aguilar:30
+P:110:Pepaso del Pepon:30
