@@ -9,3 +9,5 @@ Este repositorio está ordenado por fecha, en la carpeta de cada fecha estará l
 En el `.gitignore` se excluirán todos los archivos ejecutables, para disminuir la carga del archivo.
 
 El repositorio completo se puede descargar a la derecha como un archivo `.zip`, o también se puede clonar usando **git** en la consola o mediante **GitHub Desktop**.
+
+**Los archivos de cada clase están en la parte de _Releases_.**
