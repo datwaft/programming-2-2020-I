@@ -35,7 +35,6 @@
 *.exe
 *.out
 *.app
-log template.docx
 
 # VS
 Debug/
@@ -44,3 +43,6 @@ Debug/
 *.7z
 *.zip
 *.mkv
+
+# Specific
+log template.docx
