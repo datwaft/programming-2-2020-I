@@ -39,11 +39,16 @@
 # VS
 Debug/
 .vs/
+
+# Build
+build/
+
+# Misc.
 *.docx
 *.7z
 *.zip
 *.mkv
+*.mp4
 
 # Specific
 log template.docx
-*.mp4
